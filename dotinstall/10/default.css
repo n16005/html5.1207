@@ -1,0 +1,7 @@
+/*li:not(.target)*/
+/*li:empty8?
+/*li:empty*/
+input[type="checkbox"]:checked + label
+{
+	background: violet;
+}
