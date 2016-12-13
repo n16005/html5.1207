@@ -1,7 +1,9 @@
 div {
 	width: 200px;
 	height: 200px;
-	background: skyblue;
-	border-radius: 30px 15px 50px
+	background: skyblue; 
+	url('')
+	/*border-radius: 30px 15px 50px*/
+	border-radius: 50%;
 
-}s
+}
